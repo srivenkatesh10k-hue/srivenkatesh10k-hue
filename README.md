@@ -1,10 +1,10 @@
 <div align="center">
 
-# 👋 KEDARI SRI VENKATESH
+# 👋 Hi, I'm KEDARI SRI VENKATESH
 
 ### 📊 Data Analyst • 🧠 Aspiring Data Scientist • 🎓 MCA Student
 
-**Turning data into insights and ideas into businesses.**
+**Turning data into insights, insights into decisions, and ideas into real-world solutions.**
 
 <p>
   <a href="https://www.linkedin.com/in/kedari-sri-venkatesh-6565a8422/">💼 LinkedIn</a> •
@@ -12,7 +12,7 @@
   <a href="mailto:srivenkatesh10.k@gmail.com">📧 Email</a>
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=📊+Data+Analytics;🐍+Python+%7C+SQL+%7C+Power+BI;📈+Business+Intelligence;🧠+Currently+Learning+Data+Science;🚀+Building+My+Own+Startup" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=📊+Data+Analytics;🐍+Python+%7C+SQL+%7C+Power+BI;📈+Business+Intelligence;🧠+Learning+Data+Science+%26+Machine+Learning;🤖+Exploring+AI-Powered+Analytics;🚀+Building+Ideas+into+Solutions" />
 
 </div>
 
@@ -20,17 +20,23 @@
 
 ## 👨‍💻 About Me
 
-🎓 MCA student passionate about **Data Analytics, Business Intelligence, and Data Science**.
+🎓 I'm an **MCA student** passionate about **Data Analytics, Business Intelligence, Data Science, and Artificial Intelligence**.
 
-📊 I enjoy transforming raw data into **insights, dashboards, visualizations, and data-driven decisions**.
+📊 I enjoy working with data to uncover **patterns, trends, KPIs, and actionable insights** that can support better business decisions.
 
-🧠 Currently expanding my knowledge in **Data Science, Statistics, Machine Learning, and AI**.
+🧠 Currently strengthening my foundation in **Statistics, Python, Exploratory Data Analysis, Machine Learning, and Generative AI**.
 
-🚀 Alongside my technical journey, I'm **building my own startup** and learning how to turn ideas into real-world solutions.
+🛠️ I believe in learning by building — turning concepts into **projects, dashboards, experiments, and practical solutions**.
+
+🚀 I'm also exploring entrepreneurship and documenting my journey of **turning ideas into products and businesses**.
+
+> **Learn → Build → Analyze → Improve → Repeat**
 
 ---
 
-## 🛠️ Data Analytics Skills
+## 🛠️ Technical Skills
+
+### 📊 Data Analytics & Business Intelligence
 
 <p align="center">
 
@@ -38,104 +44,163 @@
 
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 
 </p>
 
-**🐍 Python** • **🗄️ SQL** • **🐼 Pandas** • **🔢 NumPy**  
-**📊 Power BI** • **📈 Excel** • **📉 Tableau** • **⚡ Power Query**  
-**📐 Statistics** • **🎨 Data Visualization** • **💼 Business Intelligence**
+**Languages & Querying**
+
+`Python` • `SQL`
+
+**Data Analysis**
+
+`Pandas` • `NumPy` • `Exploratory Data Analysis`
+
+**Business Intelligence**
+
+`Power BI` • `Tableau` • `Microsoft Excel` • `Power Query`
+
+**Analytics**
+
+`Data Cleaning` • `Data Transformation` • `KPI Analysis` • `Trend Analysis` • `Business Reporting`
+
+**Visualization**
+
+`Interactive Dashboards` • `Data Visualization` • `Statistical Analysis`
 
 ---
 
-## 📚 Currently Learning — Data Science
+## 🧠 Data Science Journey
 
-🧠 Building a strong foundation in **Data Science** through practical projects and real-world datasets.
+I'm currently expanding from **Data Analytics into Data Science**, focusing on practical implementation rather than only theoretical learning.
 
-### 🔬 Focus Areas
+### 🔬 Current Focus
 
-- 📊 Statistics & Probability
-- 🐍 Python for Data Science
-- 🔎 Exploratory Data Analysis
-- 🧹 Data Cleaning & Feature Engineering
-- 🤖 Machine Learning
-- 📈 Model Evaluation
-- 🧠 Predictive Analytics
-- ✨ Generative AI for Data Analytics
+* 📐 Statistics & Probability
+* 🐍 Python for Data Science
+* 🔎 Exploratory Data Analysis
+* 🧹 Data Cleaning & Preprocessing
+* ⚙️ Feature Engineering
+* 🤖 Machine Learning
+* 📊 Model Evaluation
+* 🔮 Predictive Analytics
+* ✨ Generative AI for Analytics
 
-**Learning Path:**
+### 🗺️ Learning Roadmap
 
-`Python → Statistics → EDA → Machine Learning → Model Evaluation → AI`
+```text
+Python
+   ↓
+Statistics & Probability
+   ↓
+Data Cleaning
+   ↓
+EDA & Visualization
+   ↓
+Feature Engineering
+   ↓
+Machine Learning
+   ↓
+Model Evaluation
+   ↓
+Predictive Analytics
+   ↓
+AI & Generative AI
+```
+
+---
+
+## 📊 What I Build
+
+My projects focus on solving practical problems using **data, analytics, automation, and AI**.
+
+### 📈 Data Analytics Projects
+
+* Business & KPI Analysis
+* Sales & Revenue Analysis
+* Customer Analytics
+* Trend & Performance Analysis
+* Data Cleaning & Transformation
+* Interactive Power BI Dashboards
+* Excel Analytics Dashboards
+* Business Intelligence Reports
+
+### 🤖 AI & Data Automation
+
+Exploring how **AI + Data + Automation** can simplify repetitive workflows and improve business decision-making.
+
+```text
+Python • APIs • Automation • Generative AI • Data Analytics
+```
 
 ---
 
 ## 🚀 Building My Own Startup
 
-### 💡 From Idea → Product → Business
+### 💡 From Problem → Idea → Product → Business
 
-I'm documenting my journey of **building my own startup from the ground up**.
+Alongside my academic and technical journey, I'm exploring entrepreneurship and working toward building my own startup.
 
-The goal is to combine **data, technology, AI, and business thinking** to solve real-world problems.
+My approach is to combine:
 
-### 🔄 My Startup Journey
+**📊 Data + 🤖 AI + 💻 Technology + 💼 Business**
 
-**💡 Idea**  
-Finding a meaningful problem worth solving.
+to create solutions for real-world problems.
 
-**🔍 Research**  
-Understanding the market, customers, and competition.
+### 🔄 My Startup Framework
 
-**🧪 Validate**  
-Testing assumptions and gathering feedback.
+| Stage           | Focus                                  |
+| --------------- | -------------------------------------- |
+| 💡 **Identify** | Find a meaningful problem              |
+| 🔍 **Research** | Understand users, market & competition |
+| 🧪 **Validate** | Test assumptions and gather feedback   |
+| 🛠️ **Build**   | Develop a practical solution           |
+| 📊 **Measure**  | Analyze results and user behavior      |
+| 📈 **Improve**  | Iterate based on data                  |
+| 🚀 **Scale**    | Build sustainable growth               |
 
-**🛠️ Build**  
-Creating the first practical solution.
-
-**📊 Measure**  
-Using data and analytics to understand performance.
-
-**📈 Grow**  
-Improving the product and building sustainable growth.
-
-> **Research → Build → Measure → Learn → Improve → Repeat**
+> **Research → Validate → Build → Measure → Learn → Improve**
 
 ---
 
 ## 📂 Featured Work
 
-### 📊 Data Analytics Projects
+### 📊 Analytics
 
-Building practical analytics projects using:
+Building practical projects using:
 
-`Python` • `SQL` • `Power BI` • `Excel`
+`Python` • `SQL` • `Power BI` • `Excel` • `Tableau`
 
-🔹 Business & KPI Analysis  
-🔹 Data Cleaning & EDA  
-🔹 Interactive Dashboards  
-🔹 Trend Analysis  
-🔹 Business Reporting
+Areas of interest:
 
----
+* 📈 Business Analytics
+* 💰 Financial & Revenue Analytics
+* 👥 Customer Analytics
+* 📦 Operations & Supply Chain Analytics
+* 📊 KPI & Performance Analysis
+* 🔎 Exploratory Data Analysis
 
-### 🤖 AI & Data Automation
+### 🤖 AI & Automation
 
-Exploring how **AI + Data + Automation** can improve business workflows.
+Exploring applications of:
 
-`Python` • `APIs` • `Automation` • `Generative AI`
+`Python` • `APIs` • `Automation` • `Generative AI` • `Machine Learning`
 
 ---
 
 ## 🎯 2026 Goals
 
-- 🎓 Complete my MCA
-- 💼 Secure a Data Analytics / Data Science internship
-- 📊 Build real-world analytics projects
-- 🧠 Develop practical Data Science & ML skills
-- 🚀 Build and document my startup
-- 🤖 Explore AI-powered analytics
-- 🌐 Contribute to open-source projects
+* 🎓 Complete my MCA
+* 💼 Secure a **Data Analytics / Data Science internship**
+* 📊 Build portfolio-quality analytics projects
+* 🧠 Strengthen Statistics & Machine Learning
+* 🤖 Build AI-powered data solutions
+* 📈 Develop advanced Power BI & BI skills
+* 🌐 Contribute to open-source projects
+* 🚀 Continue building and documenting my startup journey
+* 📚 Share what I learn with the community
 
 ---
 
@@ -152,6 +217,7 @@ Exploring how **AI + Data + Automation** can improve business workflows.
 <img src="https://streak-stats.demolab.com?user=srivenkatesh10k-hue&theme=tokyonight&hide_border=true" />
 
 </div>
+
 ---
 
 ## 🤝 Let's Connect
@@ -162,7 +228,7 @@ Exploring how **AI + Data + Automation** can improve business workflows.
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/srivenkatesh10k-hue/srivenkatesh10k-hue">
+<a href="https://github.com/srivenkatesh10k-hue">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -172,12 +238,14 @@ Exploring how **AI + Data + Automation** can improve business workflows.
 
 </div>
 
+---
+
 <div align="center">
 
-### 🚀 Building with Data. Learning in Public. Creating for the Future.
+### 🚀 Building with Data. Learning with Purpose. Creating for the Future.
 
-**📊 Analyze • 🧠 Learn • 🛠️ Build • 📈 Measure • 🚀 Grow**
+**📊 Analyze • 🧠 Learn • 🛠️ Build • 📈 Measure • 🤖 Innovate**
 
-⭐ *Thanks for visiting my profile!*
+⭐ **Thanks for visiting my profile!**
 
 </div>
