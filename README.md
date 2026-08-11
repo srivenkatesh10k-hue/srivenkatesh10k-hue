@@ -7,9 +7,9 @@
 **Turning data into insights and ideas into businesses.**
 
 <p>
-  <a href="YOUR_LINKEDIN_URL">💼 LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/kedari-sri-venkatesh-6565a8422/">💼 LinkedIn</a> •
   <a href="YOUR_PORTFOLIO_URL">🌐 Portfolio</a> •
-  <a href="mailto:srivenkatesh2004.k@gmail.com">📧 Email</a>
+  <a href="mailto:srivenkatesh10.k@gmail.com">📧 Email</a>
 </p>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=📊+Data+Analytics;🐍+Python+%7C+SQL+%7C+Power+BI;📈+Business+Intelligence;🧠+Currently+Learning+Data+Science;🚀+Building+My+Own+Startup" />
@@ -159,7 +159,7 @@ Exploring how **AI + Data + Automation** can improve business workflows.
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/kedari-sri-venkatesh-6565a8422/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -167,7 +167,7 @@ Exploring how **AI + Data + Automation** can improve business workflows.
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="mailto:srivenkatesh2004.k@gmail.com">
+<a href="mailto:srivenkatesh10.k@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
