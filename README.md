@@ -1,32 +1,36 @@
 <div align="center">
 
-# KEDARI SRI VENKATESH
+# 👋 KEDARI SRI VENKATESH
 
-### Data Analyst • Aspiring Data Scientist • MCA Student
+### 📊 Data Analyst • 🧠 Aspiring Data Scientist • 🎓 MCA Student
 
 **Turning data into insights and ideas into businesses.**
 
 <p>
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
-  <a href="YOUR_PORTFOLIO_URL">Portfolio</a> •
-  <a href="mailto:srivenkatesh2004.k@gmail.com">Email</a>
+  <a href="YOUR_LINKEDIN_URL">💼 LinkedIn</a> •
+  <a href="YOUR_PORTFOLIO_URL">🌐 Portfolio</a> •
+  <a href="mailto:srivenkatesh2004.k@gmail.com">📧 Email</a>
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Data+Analytics;Python+%7C+SQL+%7C+Power+BI;Business+Intelligence;Data-Driven+Decision+Making;Building+My+Own+Startup" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=📊+Data+Analytics;🐍+Python+%7C+SQL+%7C+Power+BI;📈+Business+Intelligence;🧠+Currently+Learning+Data+Science;🚀+Building+My+Own+Startup" />
 
 </div>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-I'm an **MCA student and aspiring Data Analyst** focused on transforming raw data into meaningful insights, dashboards, and business decisions.
+🎓 MCA student passionate about **Data Analytics, Business Intelligence, and Data Science**.
 
-Currently building my skills in **Data Analytics, Business Intelligence, and Data Science** while documenting my journey of **building my own startup**.
+📊 I enjoy transforming raw data into **insights, dashboards, visualizations, and data-driven decisions**.
+
+🧠 Currently expanding my knowledge in **Data Science, Statistics, Machine Learning, and AI**.
+
+🚀 Alongside my technical journey, I'm **building my own startup** and learning how to turn ideas into real-world solutions.
 
 ---
 
-## Data Analytics Stack
+## 🛠️ Data Analytics Skills
 
 <p align="center">
 
@@ -40,43 +44,102 @@ Currently building my skills in **Data Analytics, Business Intelligence, and Dat
 
 </p>
 
-**Python** • **SQL** • **Pandas** • **NumPy** • **Power BI** • **DAX** • **Excel** • **Tableau** • **Power Query** • **Data Visualization** • **Statistics**
+**🐍 Python** • **🗄️ SQL** • **🐼 Pandas** • **🔢 NumPy**  
+**📊 Power BI** • **📈 Excel** • **📉 Tableau** • **⚡ Power Query**  
+**📐 Statistics** • **🎨 Data Visualization** • **💼 Business Intelligence**
 
 ---
 
-## Featured Work
+## 📚 Currently Learning — Data Science
 
-### 📊 Data Analytics
-Business dashboards and analytical projects using **Python, SQL, Excel & Power BI**.
+🧠 Building a strong foundation in **Data Science** through practical projects and real-world datasets.
 
-### 🚀 Building My Own Startup
-**Idea → Research → Validate → Build → Measure → Scale**
+### 🔬 Focus Areas
 
-Documenting the journey of turning a real-world problem into a data-driven business.
+- 📊 Statistics & Probability
+- 🐍 Python for Data Science
+- 🔎 Exploratory Data Analysis
+- 🧹 Data Cleaning & Feature Engineering
+- 🤖 Machine Learning
+- 📈 Model Evaluation
+- 🧠 Predictive Analytics
+- ✨ Generative AI for Data Analytics
 
-### 🤖 Data & AI Automation
-Exploring automation, APIs, and AI-assisted workflows to make data analysis faster and smarter.
+**Learning Path:**
+
+`Python → Statistics → EDA → Machine Learning → Model Evaluation → AI`
 
 ---
 
-## Currently Learning
+## 🚀 Building My Own Startup
 
-`Advanced SQL` • `Power BI & DAX` • `Statistics` • `Machine Learning` • `Business Analytics` • `Product Analytics`
+### 💡 From Idea → Product → Business
+
+I'm documenting my journey of **building my own startup from the ground up**.
+
+The goal is to combine **data, technology, AI, and business thinking** to solve real-world problems.
+
+### 🔄 My Startup Journey
+
+**💡 Idea**  
+Finding a meaningful problem worth solving.
+
+**🔍 Research**  
+Understanding the market, customers, and competition.
+
+**🧪 Validate**  
+Testing assumptions and gathering feedback.
+
+**🛠️ Build**  
+Creating the first practical solution.
+
+**📊 Measure**  
+Using data and analytics to understand performance.
+
+**📈 Grow**  
+Improving the product and building sustainable growth.
+
+> **Research → Build → Measure → Learn → Improve → Repeat**
 
 ---
 
-## 2026 Goals
+## 📂 Featured Work
 
-- 🎓 Complete MCA
-- 💼 Land a Data Analytics / Data Science internship
+### 📊 Data Analytics Projects
+
+Building practical analytics projects using:
+
+`Python` • `SQL` • `Power BI` • `Excel`
+
+🔹 Business & KPI Analysis  
+🔹 Data Cleaning & EDA  
+🔹 Interactive Dashboards  
+🔹 Trend Analysis  
+🔹 Business Reporting
+
+---
+
+### 🤖 AI & Data Automation
+
+Exploring how **AI + Data + Automation** can improve business workflows.
+
+`Python` • `APIs` • `Automation` • `Generative AI`
+
+---
+
+## 🎯 2026 Goals
+
+- 🎓 Complete my MCA
+- 💼 Secure a Data Analytics / Data Science internship
 - 📊 Build real-world analytics projects
-- 🚀 Build and document my startup journey
-- 🧠 Strengthen Machine Learning & AI skills
+- 🧠 Develop practical Data Science & ML skills
+- 🚀 Build and document my startup
+- 🤖 Explore AI-powered analytics
 - 🌐 Contribute to open-source projects
 
 ---
 
-## GitHub
+## 📈 GitHub Analytics
 
 <div align="center">
 
@@ -92,10 +155,32 @@ Exploring automation, APIs, and AI-assisted workflows to make data analysis fast
 
 ---
 
+## 🤝 Let's Connect
+
 <div align="center">
 
-### Building with Data. Learning in Public. Creating for the Future.
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-**Analyze • Build • Measure • Learn • Grow**
+<a href="YOUR_GITHUB_URL">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:srivenkatesh2004.k@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Building with Data. Learning in Public. Creating for the Future.
+
+**📊 Analyze • 🧠 Learn • 🛠️ Build • 📈 Measure • 🚀 Grow**
+
+⭐ *Thanks for visiting my profile!*
 
 </div>
