@@ -172,8 +172,6 @@ Exploring how **AI + Data + Automation** can improve business workflows.
 
 </div>
 
----
-
 <div align="center">
 
 ### 🚀 Building with Data. Learning in Public. Creating for the Future.
